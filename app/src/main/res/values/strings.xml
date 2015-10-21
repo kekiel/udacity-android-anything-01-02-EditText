@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Edit Text</string>
+    <string name="example_edittext">Edit Text Example</string>
+    <string name="show_the_text">Show the text</string>
+    <string name="input_hint_text">Type text here and press the button...</string>
+</resources>
